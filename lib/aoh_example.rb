@@ -31,7 +31,7 @@ def literal_aoh
     PAT_M,
     KATE_G,
     BRUCE_G
-  ].sort
+  ]
 end
 
 def aoh_lookup(aoh, row, key)
