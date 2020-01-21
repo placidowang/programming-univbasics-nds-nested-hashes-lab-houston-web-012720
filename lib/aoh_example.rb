@@ -16,7 +16,7 @@ def assembled_aoh
     PAT_M,
     KATE_G,
     BRUCE_G
-  ]#  .sort
+  ].sort
   
   array_sorted
 end
